@@ -6,7 +6,8 @@ Built an interactive Excel dashboard analyzing sales performance, revenue trends
 Excel(Power Query, Pivot Tables, Power Pivot,Charts)
 
 ## Dataset
-Customer dataset containing products,region,unit cost,discount and quantity
+Customer dataset containing :
+Date, Salesperson, Products, Region,Unit cost,Discount and Quantity
 
 ## Key Analysis
 Analyzed 500+ sales transactions to evaluate revenue, orders, and profit performance across multiple product categories.
