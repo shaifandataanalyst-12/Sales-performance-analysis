@@ -21,5 +21,6 @@ Top revenue drivers: Printer, Mouse, Headphone, Monitor, Tablet [focus marketing
 ## Dashboard
 [Dashboard Screenshot]
 <img width="1213" height="713" alt="Screenshot 2026-02-28 162349" src="https://github.com/user-attachments/assets/9735f369-1c66-45c1-922f-2af940d73ada" />
+<img width="1501" height="533" alt="Screenshot 2026-02-28 162427" src="https://github.com/user-attachments/assets/1cfa647c-f4b5-4960-a1f8-8fcdab4588ec" />
 
 
