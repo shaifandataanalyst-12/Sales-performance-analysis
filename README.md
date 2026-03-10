@@ -9,7 +9,9 @@ Businesses need to understand which products, regions, and time periods contribu
 ## Tools Used
 - Excel
 - Power Query
+- Power pivot
 - Pivot Tables
+- kpi metrics
 - Data Visualization
 
 ## Dataset
