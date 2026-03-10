@@ -18,7 +18,7 @@ Sales dataset containing:
 - Product Name
 - Region
 - Sales Amount
-- Profit
+- Profit 
 - Order Date
 
 ## Analysis Performed
@@ -29,13 +29,10 @@ Sales dataset containing:
 - Interactive dashboard creation
 
 ## Key Insights
-Total sales declined -25.8% YoY (2025 vs 2024); profit declined -26.1%, and orders decreased -27.6%. 
-
-AOV increased ~2.4%, indicating higher value per order despite fewer orders.
-
-Peak sales in the period occurred in Apr 2025 and Jul 2025; Jun–Aug 2025 shows dips  [investigate seasonality or stock/fulfillment issues.] 
-
-Top revenue drivers: Printer, Mouse, Headphone, Monitor, Tablet [focus marketing & inventory here.] 
+- Total sales declined to -25.8% YoY (2025 vs 2024); profit declined to -26.1%, and orders decreased to -27.6%. 
+- AOV increased ~2.4%, indicating higher value per order despite fewer orders.
+- Peak sales in the period occurred in Apr 2025 and Jul 2025; Jun–Aug 2025 shows dips  [investigate seasonality or stock/fulfillment issues.] 
+- Top revenue drivers: Printer, Mouse, Headphone, Monitor, Tablet [focus marketing & inventory here.] 
 
 ## Dashboard
 [Dashboard Screenshot]
