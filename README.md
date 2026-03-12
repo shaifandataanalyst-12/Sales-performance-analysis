@@ -28,6 +28,7 @@ Sales dataset containing:
 - KPI analysis including revenue, orders, and profit
 - Product performance analysis
 - Monthly and regional sales trend analysis
+- Analysing YOY % and MOM % using time intelligence functiobns
 - Interactive dashboard creation
 
 ## Key Insights
