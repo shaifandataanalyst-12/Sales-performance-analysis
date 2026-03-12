@@ -38,5 +38,6 @@ Sales dataset containing:
 
 ## Dashboard
 [Dashboard Screenshot]
-<img width="1263" height="685" alt="Screenshot 2026-03-11 004755" src="https://github.com/user-attachments/assets/a1fb52ed-584b-44d8-bd7b-7d089f9559ac" />
+<img width="1447" height="793" alt="Screenshot 2026-03-12 223100" src="https://github.com/user-attachments/assets/1eac5957-0860-4366-8b79-b5e17a013bed" />
+
 <img width="1501" height="533" alt="Screenshot 2026-02-28 162427" src="https://github.com/user-attachments/assets/1cfa647c-f4b5-4960-a1f8-8fcdab4588ec" />
