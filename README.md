@@ -1,4 +1,4 @@
-# Sales-performance-dashboard
+# Sales-performance-Analysis
 
 ## Project Overview
 This project analyzes sales data to evaluate revenue performance, product profitability, and regional trends. The goal is to identify patterns in sales performance and provide insights that can support better business decision-making.
